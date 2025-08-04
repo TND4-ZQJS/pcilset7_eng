@@ -8,7 +8,7 @@
       "C": "refuse",
       "D": "reduce"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 2,
@@ -19,7 +19,7 @@
       "C": "Payment of the sum assured on permanent total disablement or death",
       "D": "Reimbursement of medical expenses incurred"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 3,
@@ -30,7 +30,7 @@
       "C": "Education level",
       "D": "Hobbies"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 4,
@@ -41,7 +41,7 @@
       "C": "ambulance fees",
       "D": "outpatient day care surgery"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 5,
@@ -52,7 +52,7 @@
       "C": "Alternative form of contract",
       "D": "Charging an extra premium"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 6,
@@ -63,7 +63,7 @@
       "C": "personal interest",
       "D": "contractual capacity"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 7,
@@ -74,7 +74,7 @@
       "C": "II, III and IV",
       "D": "I, II, III and IV"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 8,
@@ -85,7 +85,7 @@
       "C": "where a life insurance contract has been in effect for more than two (2) years, the contract can be avoided if a material fact was mistakenly left out.",
       "D": "where a life insurance contract has been in effect for more than two (2) years, the contract cannot be avoided at all."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 9,
@@ -96,7 +96,7 @@
       "C": "Outpatient day care surgery and consultation",
       "D": "Cover for migration overseas"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 10,
@@ -107,7 +107,7 @@
       "C": "‘Exclusion endorsement’",
       "D": "‘Benefit limitations’"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 11,
@@ -118,7 +118,7 @@
       "C": "simple fact",
       "D": "common fact"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 12,
@@ -129,7 +129,7 @@
       "C": "60 days",
       "D": "45 days"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 13,
@@ -140,7 +140,7 @@
       "C": "if the real age of insured is less than that stated in the policy.",
       "D": "if the insured can prove that he is healthier now than before."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 14,
@@ -151,7 +151,7 @@
       "C": "Reduce the premiums paid in accordance with the true age",
       "D": "Refuse a claim on grounds of misrepresentation"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 15,
@@ -162,7 +162,7 @@
       "C": "a statement omitted in the proposal form leading to an inaccuracy on the policy issued.",
       "D": "a statement omitted in the medical report submitted with the proposal form, leading to an inaccuracy in the policy issued"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 16,
@@ -173,7 +173,7 @@
       "C": "I, III and IV",
       "D": "II, III and IV"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 17,
@@ -184,7 +184,7 @@
       "C": "illegitimate",
       "D": "unenforceable"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 18,
@@ -195,7 +195,7 @@
       "C": "two",
       "D": "four"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 19,
@@ -206,7 +206,7 @@
       "C": "Guaranteed bonus",
       "D": "Interim bonus"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 20,
@@ -217,7 +217,7 @@
       "C": "The policy continues until another illness is detected",
       "D": "The policy is automatically terminated"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 21,
@@ -228,7 +228,7 @@
       "C": "impossible",
       "D": "uncertain"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 22,
@@ -239,7 +239,7 @@
       "C": "investment-linked life plan",
       "D": "term life insurance"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 23,
@@ -250,7 +250,7 @@
       "C": "Endowment",
       "D": "Whole life"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 24,
@@ -261,7 +261,7 @@
       "C": "paid by the government",
       "D": "paid entirely by the employee"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 25,
@@ -272,7 +272,7 @@
       "C": "insurance agent",
       "D": "fund manager"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 26,
@@ -283,7 +283,7 @@
       "C": "all employees selected by an internal recruitment process",
       "D": "permanent employees between the ages of 16 to 60"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 27,
@@ -294,7 +294,7 @@
       "C": "because of extra premium payable for investment purposes",
       "D": "because it is guaranteed yearly renewable"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 28,
@@ -305,7 +305,7 @@
       "C": "history of medical claims",
       "D": "previous life and medical insurance"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 29,
@@ -316,7 +316,7 @@
       "C": "Because of different cost structures, assessment of risk and investment returns.",
       "D": "Because of different asset valuation methods and provisions for liabilities."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 30,
@@ -327,7 +327,7 @@
       "C": "longer terms and bonus covered",
       "D": "ease of policy proceeds payable in the event of death."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 31,
@@ -338,7 +338,7 @@
       "C": "below average risks.",
       "D": "sub-standard risks."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 32,
@@ -349,7 +349,7 @@
       "C": "Commit suicide",
       "D": "Critical illness"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 33,
@@ -360,7 +360,7 @@
       "C": "Policy moneys will be paid to the lawful executor or administrator of the estate.",
       "D": "Policy moneys will be paid to the lawful beneficiaries."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 34,
@@ -371,7 +371,7 @@
       "C": "the Doctrine of Proximate Cause",
       "D": "the Principle of Subrogation"
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 35,
@@ -382,7 +382,7 @@
       "C": "if the policy monies exceed RM 100,000.",
       "D": "if the policy monies exceed RM50,000."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 36,
@@ -393,7 +393,7 @@
       "C": "make biased comparisons with the benefits, terms and conditions of policies from other insurers.",
       "D": "persuade the prospective policy owner to cancel his existing policy of insurance."
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 37,
@@ -404,7 +404,7 @@
       "C": "integrity of personal data",
       "D": "credibility of the medical report"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 38,
@@ -415,7 +415,7 @@
       "C": "companies",
       "D": "consumers"
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 39,
@@ -426,7 +426,7 @@
       "C": "An investment-linked policy is guaranteed by the government.",
       "D": "An investment-linked policy only allows investment without insurance cover."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 40,
@@ -437,7 +437,7 @@
       "C": "To avoid contravening the terms of the agency contract.",
       "D": "To avoid contravening the Personal Data Protection Act 2010."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 41,
@@ -448,7 +448,7 @@
       "C": "ensure unsolicited or unarranged calls are made at a time suitable to the client.",
       "D": "ensure that the policy proposed is suitable to the needs and resources of the client."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 42,
@@ -459,7 +459,7 @@
       "C": "A regular premium-paying rider must be included together with the basic annual premium in the multiple factor for calculation",
       "D": "Regular top-up premium is included in the SAM factor for calculating the minimum sum assured."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 43,
@@ -470,7 +470,7 @@
       "C": "Investment-linked insurance product cater for more flexibilities and transparencies.",
       "D": "Traditional insurance products are more transparent and flexible."
     },
-    "answer": ""
+    "answer": "C"
   },
   {
     "questionNumber": 44,
@@ -481,7 +481,7 @@
       "C": "Interim bonus",
       "D": "None of the above"
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 45,
@@ -492,7 +492,7 @@
       "C": "mortality experience of policyholders according to race",
       "D": "mortality experience of the policyholders of the insurer"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 46,
@@ -503,7 +503,7 @@
       "C": "An additional commission paid to agency managers.",
       "D": "A clause inserted in a life policy that overrides a policy condition."
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 47,
@@ -514,7 +514,7 @@
       "C": "A husband insuring the life of his wife.",
       "D": "A brother insuring the life of his sister."
     },
-    "answer": ""
+    "answer": "D"
   },
   {
     "questionNumber": 48,
@@ -525,7 +525,7 @@
       "C": "educational needs of children.",
       "D": "loss of income on death."
     },
-    "answer": ""
+    "answer": "A"
   },
   {
     "questionNumber": 49,
@@ -536,7 +536,7 @@
       "C": "A large number of similar risks",
       "D": "Insurable interest"
     },
-    "answer": ""
+    "answer": "B"
   },
   {
     "questionNumber": 50,
@@ -547,6 +547,6 @@
       "C": "Profit maximization",
       "D": "Diversification"
     },
-    "answer": ""
+    "answer": "D"
   }
 ]
